@@ -1,0 +1,3 @@
+com.samsung.health.user_profile,6151003,8
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,2021-02-04 15:30:32.033,2021-02-04 15:30:32.049,,dashboard_config,00000000-0000-0000-0000-000000000016.dashboard_config.json,,hzysVghu3B,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000016,
